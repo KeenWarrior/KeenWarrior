@@ -17,5 +17,5 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & Founder of Code for Cause and Coding Junior with a dream of 100 Percent Education in India. </br>
-👨‍💻  I am passionate aboutWeb Dev, Machine Learning, DevOps & I enjoy learning and teaching new things. </br>
+👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning and teaching new things. </br>
 
